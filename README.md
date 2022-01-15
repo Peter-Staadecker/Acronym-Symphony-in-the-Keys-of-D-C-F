@@ -16,4 +16,6 @@ The share purchaser's personal taxes are ignored. Terminal values for the stock 
 
 The program prints results both to the terminal console and to an Excel file. The file is saved in the same directory as the program. In the case of an early end to the program a partial output file is provided.
 
+Some sections of this program were based on example code provided by Financial Modeling Prep.
+
 This program was written as a Python learning exercise and is not intended for stock trading, trading advice or any other purpose. Nor is it guaranteed to be in any way error-free. Comments, corrections and suggestions are welcome.
