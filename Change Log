@@ -4,6 +4,12 @@ DCFv14 includes the following changes from DCFv13:
 3) Adding "pa" to several percentage printouts/Excel column headings to clarify that the percentages are per annum.
 4) Clarification. Change the Excel column heading from NPV to NPV of future EPS.
 
+DCFv15 includes the following changes from DCFv14
+1) Financial Modeling Prep changed the API url, data names and structures. Updated the DCF program to take that into account.
+2) Made sure that the warning "market cap less than <x>" was printed out only in the correct Excel row, and not every row.
+3) Added a sentence to the introductory assumptions stating that if the Financial Modeling Prep data names and structures change, the DCF program may not function correctly. 
+
+
 
 For the future:
 A check against invalid stock ticker symbols?
