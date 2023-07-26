@@ -12,7 +12,7 @@ This last calculation is performed iteratively in a maximum of 20 steps. If no m
 
 The user is able to alter the discount rate for the NPV in the code, and to alter the number of years over which the NPV and IRR are calculated.
 
-The share purchaser's personal taxes are ignored. Terminal values for the stock are ignored. The EPS in the year of purchasea are ignored. The program assumes that all data use the same currency unit. As a result, shares like ADRs for which Financial Modeling Prep quotes share price in dollars but whose EPS are listed in a different currency will give incorrect results and should not be used in this program. Additional assumptions not listed here may be implicit in the code.
+The share purchaser's personal taxes are ignored. Terminal values for the stock are ignored. The EPS in the year of purchasea are ignored. The program assumes that all data use the same currency unit. As a result, shares like ADRs for which Financial Modeling Prep quotes the share price in dollars but for which it quotes EPS in a different currency cannot be correctly evaluated by this program. Additional assumptions not listed here may be implicit in the code.
 
 The program prints results both to the terminal console and to an Excel file. The file is saved in the same directory as the program. In the case of an early end to the program a partial output file is provided.
 
