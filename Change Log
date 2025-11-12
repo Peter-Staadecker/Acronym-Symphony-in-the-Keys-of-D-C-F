@@ -1,3 +1,9 @@
+***WARNING***
+This program relied on free data from Financial Modelling Prep. Unfortunately, in late 2025, Financial Modelling Prep limited which type of data will have free 
+access. As a result, the program is no longer able to run and is withdrawn.
+
+
+
 DCFv14 includes the following changes from DCFv13:
 1) Inclusion of the subroutine 'delay'. This subroutine ensures a minimum wait time before the next API call to Financial Modeling Prep. Without this, frequent call may result in an HTPP error 429.
 2) In calculating the minimum EPS growth required for an NPV breakeven on a share purchase, DCFv13 erroneously calculated the NPV for one year too little. Corrected to be the correct number of future years.
