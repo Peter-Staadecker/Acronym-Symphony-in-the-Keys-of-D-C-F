@@ -1,4 +1,11 @@
 # Acronym-Symphony-in-the-Keys-of-D-C-F
+
+***WARNING***
+This program relied on free data from Financial Modelling Prep. Unfortunately, in late 2025, Financial Modelling Prep limited which type of data will have free 
+access. As a result, the program is no longer able to run and is withdrawn from use. The remainder of the readme file is for historical purposes only.
+
+
+
 A program that calculates the IRR and NPV of share purchases using past EPS growths projected into the future.
 
 The goal of the program:
